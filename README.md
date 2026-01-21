@@ -13,7 +13,7 @@ A simple Todo application built with HTML, CSS, and JavaScript to demonstrate we
 
 - **HTML**: Structure of the web page
 - **CSS**: Styling and layout
-- **JavaScript**: Functionality ansjdisjisd interactivity
+- **JavaScript**: Functionality and interactivity
 - **localStorage**: Client-side data storage
 
 ## How to Run
