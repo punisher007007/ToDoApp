@@ -13,7 +13,7 @@ A simple Todo application built with HTML, CSS, and JavaScript to demonstrate we
 
 - **HTML**: Structure of the web page
 - **CSS**: Styling and layout
-- **JavaScript**: Functionality and interactivity
+- **JavaScript**: Functionality ansjdisjisd interactivity
 - **localStorage**: Client-side data storage
 
 ## How to Run
@@ -31,6 +31,7 @@ A simple Todo application built with HTML, CSS, and JavaScript to demonstrate we
 ## Learning Objectives
 
 This project demonstrates:
+
 - Basic HTML structure and semantics
 - CSS styling with flexbox and responsive design
 - JavaScript DOM manipulation and event handling
@@ -41,6 +42,7 @@ This project demonstrates:
 ## Git History
 
 The commit history shows the development process:
+
 1. Initial HTML structure
 2. CSS styling
 3. JavaScript functionality
